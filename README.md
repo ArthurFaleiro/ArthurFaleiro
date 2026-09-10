@@ -126,12 +126,13 @@ An entrepreneurial platform project of my own, currently in the product-design p
 ## 📊 GitHub stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ArthurFaleiro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurFaleiro&theme=tokyonight&hide_border=true" width="49%" />
 
-<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurFaleiro&theme=tokyonight&hide_border=true" width="65%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurFaleiro&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" />
+<br/><br/>
+
+<img src="https://img.shields.io/github/followers/ArthurFaleiro?style=for-the-badge&logo=github&color=6366f1&labelColor=0f172a&label=Followers" />
+<img src="https://komarev.com/ghpvc/?username=ArthurFaleiro&style=for-the-badge&color=6366f1&label=Profile+Views" />
 
 </div>
 
